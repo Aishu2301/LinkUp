@@ -19,7 +19,7 @@ LinkUp is a static social media platform built with HTML, CSS, and JavaScript. I
 ![Profile Page](images/profile.png)
 
 ### Post Sharing
-![Post Sharing](images/post-sharing.png)
+![Post Sharing](https://github.com/Aishu2301/LinkUp/blob/bcd3e857bdb42debe6bf73644c2fb93911fc9507/Images/Screenshot%202025-04-01%20082703.png)
 
 ## Technologies Used
 - **HTML**: Structure of the web pages
