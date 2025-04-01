@@ -16,7 +16,7 @@ LinkUp is a static social media platform built with HTML, CSS, and JavaScript. I
 ![Home Page](https://github.com/Aishu2301/LinkUp/blob/b2f248ce3837017972cce424e5c11e99f3ebe383/Images/Screenshot%202025-04-01%20082525.png)
 
 ### Theme Toggle 
-![Profile Page](images/profile.png)
+![Home Page](https://github.com/Aishu2301/LinkUp/blob/82dbd0abe9738b1dd202ec33eda4840332846d69/Images/Screenshot%202025-04-01%20083659.png)
 
 ### Post Sharing
 ![Post Sharing](https://github.com/Aishu2301/LinkUp/blob/bcd3e857bdb42debe6bf73644c2fb93911fc9507/Images/Screenshot%202025-04-01%20082703.png)
