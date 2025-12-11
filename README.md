@@ -5,38 +5,38 @@ ConnectSphere supports one-to-one chats, group conversations, presence indicator
 
 📌 Features
 
-One-to-one private messages
+1. One-to-one private messages
 
-"Online", "Offline", and "Last Seen" indicators
+2. "Online", "Offline", and "Last Seen" indicators
 
-WebSocket-based communication
+3. WebSocket-based communication
 
-Redis for message queueing & event publishing
+4. Redis for message queueing & event publishing
 
-Fully containerized using Docker
+5. Fully containerized using Docker
 
-Backend, frontend, and Redis run in isolated containers
+6. Backend, frontend, and Redis run in isolated containers
 
-Easy deployment on any platform supporting Docker
+7. Easy deployment on any platform supporting Docker
 
 🛠️ Tech Stack
-Frontend
+1. Frontend
 
-React
+(i) React
 
-React Router
+(ii) React Router
 
-Socket.io Client
+(iii) Socket.io Client
 
-TailwindCSS / Custom UI components
+(iv) TailwindCSS / Custom UI components
 
-Backend
+2. Backend
 
-Node.js
+(i) Node.js
 
-Express
+(ii) Express
 
-Socket.io
+(iii) Socket.io
 
-Redis (Pub/Sub + Queue)
+(iv) Redis (Pub/Sub + Queue)
 
